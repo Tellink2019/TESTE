@@ -1,0 +1,12 @@
+{
+  "name": "tellink-telecom",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.0.0",
+    "babel-loader": "^8.0.0"
+  }
+}
